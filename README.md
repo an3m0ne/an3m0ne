@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm an3m0ne👋</h1>
 
-## 💁‍♂️ Abount Me :
+## 💁‍♂️ About Me :
 - 🔭 I’m currently working on [OSEP](https://www.offensive-security.com/pen300-osep/)
 - 📚 I’m currently learning about Active Directory security
 - 💬 Ask me about anything, I am happy to help
