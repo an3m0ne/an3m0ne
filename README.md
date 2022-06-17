@@ -12,7 +12,7 @@
  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white)
  ![PowerShell](https://img.shields.io/badge/powershell-071d49?logo=powershell&logoColor=white&style=plastic)
  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white)
- ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+ ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=white)
 
 ## 🛠️ Skills:
 <div style="white-space: nowrap;">
